@@ -1,18 +1,4 @@
-# [2.0.0](https://github.com/k4m4/cloudflare-detect/compare/v1.1.0...v2.0.0) (2023-10-08)
-
-
-### Features
-
-* badges on docs ([a12765a](https://github.com/k4m4/cloudflare-detect/commit/a12765a8081ea9fb675cdccda4134bfd819556dd))
-
-
-### BREAKING CHANGES
-
-* trying to use angular preset in changelog generator to generate a 2.x
-
-
-
-# [1.1.0](https://github.com/k4m4/cloudflare-detect/compare/v1.0.8...v1.1.0) (2023-10-08)
+# [3.0.0](https://github.com/k4m4/cloudflare-detect/compare/v1.0.8...v3.0.0) (2026-03-04)
 
 
 ### Bug Fixes
@@ -26,6 +12,12 @@
 ### Features
 
 * async/await, no promise libs, don't auto-download ip files ([1fd864e](https://github.com/k4m4/cloudflare-detect/commit/1fd864e0992ebfcb5949106c961d3208e877b1e3))
+* badges on docs ([a12765a](https://github.com/k4m4/cloudflare-detect/commit/a12765a8081ea9fb675cdccda4134bfd819556dd))
+
+
+### BREAKING CHANGES
+
+* trying to use angular preset in changelog generator to generate a 2.x
 
 
 
